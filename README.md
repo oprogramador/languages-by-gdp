@@ -96,7 +96,7 @@ Source of countries' GDP: [IMF](http://www.imf.org/external/pubs/ft/weo/2018/01/
 | 84  | tok pisin        | 10,628             | 0.013          |
 | 85  | malagasy         | 9,712              | 0.012          |
 | 86  | kinyarwanda      | 8,918              | 0.011          |
-| 87  | haitlian creole  | 7,524              | 0.009          |
+| 87  | haitian creole   | 7,524              | 0.009          |
 | 88  | sesotho          | 7,463              | 0.009          |
 | 89  | dari             | 7,311              | 0.009          |
 | 90  | tajik            | 7,234              | 0.009          |
